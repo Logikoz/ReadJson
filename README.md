@@ -1,0 +1,34 @@
+# ReadJson
+desserialização de arquivo json.
+
+```
+[
+  {
+    "Endereco": [
+      {
+        "Bairro": "Conj. Esperança",
+        "Complemento": "Ap",
+        "Logradouro": "Rua aqui",
+        "Numero": 1000
+      }
+    ],
+    "Idade": 19,
+    "Nick": "Logikoz",
+    "Nome": "Ruan Carlos"
+  },
+  {
+    "Endereco": [
+      {
+        "Bairro": "Centro",
+        "Complemento": "Casa",
+        "Logradouro": "Avenida sao joao",
+        "Numero": 300
+      }
+    ],
+    "Idade": 16,
+    "Nick": "Pabrinho12",
+    "Nome": "Pablo Escova"
+  }
+]
+```
+
